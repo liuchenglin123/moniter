@@ -1,0 +1,12 @@
+{
+  "ip": "",
+  "process_names": ["mysqld", "redis-server", "clickhouse"],
+  "interval_time": 1,
+  "db": {
+    "user": "",
+    "password": "",
+    "host": "",
+    "port": "",
+    "database": ""
+  }
+}
